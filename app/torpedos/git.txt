@@ -1,0 +1,16 @@
+1 workin directory
+Git init
+Git status
+
+3 git add
+
+Un txt  para que  ignorer algunos blades o carpeta  .gitignore
+
+Git commit  -m  “un mensaje”
+
+Git Branch crea un un proyecto paralelo
+Git checkout me cambia a la rama del otro proyecto en paralelo
+Git Branch (Nombre del 2 proyecto en paralelo)
+
+Git add .   (con solo el . agrego todos los archivos dentro del entorno de ytrabajogit c
+Git clone (url del github)

@@ -10,9 +10,19 @@
     <!-----         prueba  ok   ----->     
          @include('includes.message')
          <?php $i=0?>
+
+
+
+         
+ <!-----------  MIrar  ------------------------------------>
          <div class="clearfix" style="margin-left: 268PX;">            
           {{$proyectos->links()}} 
          </div>
+   <!-----------  MIrar   ------------------------------>
+
+
+
+
           <?php $indice=0 ?>
   <!-----         prueba  DE MENSAJE  ok ----->          
           @include('includes.message2')
